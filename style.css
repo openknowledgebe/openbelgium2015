@@ -352,12 +352,14 @@ footer .support img {
   width: 170px;
   height: 94px;
   background-image: url('img/logo-big.png');
+  background-size: 100%;
 }
 
 .brand-logo.small {
   width: 239px;
   height: 50px;
   background-image: url('img/logo-small.png');
+  background-size: 100%;
 }
 
 .navbar.navbar-default {
