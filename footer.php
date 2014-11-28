@@ -42,7 +42,7 @@
     	  </div>-->
 	  <div class="footer-icon">
             <div class="col-md-2 col-xs-4">
-              <img src="wp-content/uploads/2014/10/awt_learning.jpg" alt="flag_yellow_eps" class="wp-image-90 grayscale" />
+              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/10/awt_learning.jpg" alt="flag_yellow_eps" class="wp-image-90 grayscale" />
             </div>
           </div>
     	</div>
