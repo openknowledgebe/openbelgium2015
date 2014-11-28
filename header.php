@@ -19,7 +19,37 @@
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@id" : "http://2015.openbelgium.be/#event",
+  "@type" : "Event",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Namur",
+      "addressCountry": "BE",
+      "streetAddress": "Place d'Armes 1",
+      "postalCode" : "5000",
+      "url" : "http://www.openstreetmap.org/?mlat=50.46360&mlon=4.86736#map=19/50.46360/4.86736"
+    },
+    "geo" : {
+      "@type": "GeoCoordinates",
+      "latitude" :"50.46360",
+      "longitude":"4.86736"
+    },
+    "telephone" : "+3281479347",
+    "name" : "Palais des congrès",
+    "image" : "http://www.namurpalaisdescongres.be/~/media/Images/Namur%20Palais%20des%20Congres/Varia/PCN_entrance.jpg?h=180&la=fr&w=253",
+    "@id" : "http://www.namurpalaisdescongres.be/",
+    "url": "http://www.namurpalaisdescongres.be/",
+    "startDate" : "2015-02-23T09:30:00+01:00",
+    "endDate" : "2015-02-23T18:00:00+01:00",
+    "url" :"http://2015.openbelgium.be/"
+  }
+}
+</script>
 <?php wp_head(); ?>
 </head>
 
