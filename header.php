@@ -15,7 +15,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:description" content="<?php bloginfo( 'description' ); ?>"/>
 <meta property="og:image" content="http://2015.openbelgium.be/wp-content/themes/datadays/img/logo-big.png"/>
-<meta property="og:video" content="http://vimeo.com/113041672/download?t=1417182691&v=311804631&s=aff39b8d067c838fd1213ab0fe129d75"/>
+<meta property="og:video" content="http://vimeo.com/113041672"/>
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
