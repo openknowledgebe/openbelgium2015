@@ -99,7 +99,7 @@
 		<div id="header-image" class="hidden-xs">
 		<div class="middle">
 		<div id="hero-text"><div class="balloon">Join <strong>Open Data</strong> Pioneers, practitioners, thinkers, researchers and entrepreneurs from <strong>all across Belgium</strong> to <strong>learn</strong> and discuss the <strong>next steps</strong> in this conference by <strong><a href="http://okfn.be">Open Knowledge Belgium</a></strong> and the <strong><a href="http://openbelgium.be/members">Open Belgium community</a></strong>.</div></div>
-		<div id="hero-subtext"><div class="balloon">23d of February 2014<br/>Palais des Congrès, Namur</div></div>
+		<div id="hero-subtext"><div class="balloon">23d of February 2015<br/>Palais des Congrès, Namur</div></div>
 		
 		</div>
 		</div>
