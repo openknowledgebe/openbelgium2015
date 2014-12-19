@@ -23,11 +23,24 @@
       <div class="col-md-6 col-sm-12">
         <h4>Open Belgium 2015 is an initiative of</h4>
         <div class="logobox organisers">
+
+        <div class="footer-icon">
+            <div class="col-md-2 col-xs-4">
+              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/12/OK_LG_LOGO_BEGIUM_RGB.png" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
+            </div>
+        </div>    	  
     	  <div class="footer-icon">
-    	  <div class="col-xs-4 col-sm-4">
-    	  <img src="/wp-content/uploads/2013/11/okfn-logo-landscape1.png" alt="okfn-logo-landscape" class="wp-image-94 grayscale" />
-    	  </div>
-    	  </div>
+            <div class="col-md-2 col-xs-4">
+              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/12/HACKATHON_logo_High.jpg" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
+            </div>
+        </div>
+        <div class="footer-icon">
+            <div class="col-md-2 col-xs-4">
+              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/12/Logo-Global-Enterprise-rectangle.png" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
+            </div>
+        </div>
+
+        
         </div>
       </div>
 
@@ -43,21 +56,6 @@
     	  <div class="footer-icon">
             <div class="col-md-2 col-xs-4">
               <img src="http://2015.openbelgium.be/wp-content/uploads/2014/10/awt_learning.jpg" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
-            </div>
-        </div>
-        <div class="footer-icon">
-            <div class="col-md-2 col-xs-4">
-              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/12/HACKATHON_logo_High.jpg" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
-            </div>
-        </div>
-        <div class="footer-icon">
-            <div class="col-md-2 col-xs-4">
-              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/12/Logo-Global-Enterprise-rectangle.png" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
-            </div>
-        </div>
-        <div class="footer-icon">
-            <div class="col-md-2 col-xs-4">
-              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/12/OK_LG_LOGO_BEGIUM_RGB.png" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
             </div>
         </div>
     	</div>
