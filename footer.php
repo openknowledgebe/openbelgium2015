@@ -53,9 +53,34 @@
     	  <img src="/wp-content/uploads/2013/11/iminds.png" alt="flag_yellow_eps" class="wp-image-90 grayscale" />
     	  </div>
     	  </div>-->
+        <div class="footer-icon">
+          <div class="col-md-2 col-xs-4">
+            <img src="http://2015.openbelgium.be/wp-content/uploads/2014/10/LOGO-CE_horizontal_EN_quadrii.png" alt="European Commission ISA Programme" class="wp-image-90 grayscale" />
+          </div>
+        </div>
     	  <div class="footer-icon">
             <div class="col-md-2 col-xs-4">
+              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/10/COL_POS_100_RGB.png" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
+            </div>
+        </div>
+    	<div class="footer-icon">
+            <div class="col-md-2 col-xs-4">
               <img src="http://2015.openbelgium.be/wp-content/uploads/2014/10/awt_learning.jpg" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
+            </div>
+        </div>
+    	  <div class="footer-icon">
+            <div class="col-md-2 col-xs-4">
+              <img src="http://www.appsforeurope.eu/sites/all/themes/responsive_blog/custom/a4e_logo.png" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
+            </div>
+        </div>
+    	  <div class="footer-icon">
+            <div class="col-md-2 col-xs-4">
+              <img src="http://opencube-project.eu/sites/default/files/new_opencubelogo.png" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
+            </div>
+        </div>
+    	  <div class="footer-icon">
+            <div class="col-md-2 col-xs-4">
+              <img src="http://2015.openbelgium.be/wp-content/uploads/2014/10/coq_spw_ho.jpg" alt="flag_yellow_eps" class="wp-image-90 grayscale" />      
             </div>
         </div>
     	</div>
